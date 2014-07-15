@@ -61,3 +61,4 @@ github "xquartz",     "1.1.1"
 # https://github.com/boxen.
 
 github "opera", "0.3.3"
+github "redis", "3.0.2"
